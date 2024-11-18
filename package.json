@@ -1,0 +1,22 @@
+{
+  "name": "taskflow-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A sleek to-do list backend built with Node.js, Express.js, Sequelize, and SQLite3. ",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "author": "PolarBear",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "express": "^4.21.1",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  }
+}
